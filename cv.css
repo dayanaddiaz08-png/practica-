@@ -1,0 +1,78 @@
+/* About-me begin*/
+.nombre {
+    font-family: "DM Sans";
+    font-weight: 600;
+    font-style: bold;
+    color: #f2ffdc;
+    background-color: #9b4d60;
+    padding-left: 20px;
+}
+
+.yo {
+    font-family: "DM Sans";
+    font-size: 280%;
+    font-weight: 900;
+    font-style: bold;
+    color: rgb(203, 42, 90);
+    padding-left: 20px
+}
+
+.lic {
+    color: rgb(203, 42, 90);
+    font-family: "Outfit";
+    font-weight: 600;
+    font-style: bold;
+    padding-left: 20px
+}
+/* About-me end*/
+
+
+.parrafo {
+    font-family: "Google Sans";
+    color: rgb(65, 53, 53);
+    padding-left: 20px;
+}
+
+.parrafo1 {
+    font-family: "Google Sans";
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Education begin*/
+.education {
+    font-family: "Outfit";
+    font-weight: 300;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    font-size:x-large;
+}
+
+.photo-profile {
+    width: 200px; 
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.col-3 {
+    padding: 20px;
+    background: linear-gradient(to bottom, #eb839d, #fcd1dc);
+    color: #cb2a5a;
+}
+
+.col-9 {
+    background-color:#ffd6e0;
+}
+
+.contacto {
+    font-family: "DM Sans";
+    font-weight: 600;
+    font-style: bold;
+    color: #f2ffdc;
+    background-color: #9b4d60;
+    justify: center;
+
+
+}
